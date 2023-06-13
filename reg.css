@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+form{
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 10px;
+    padding-bottom: 5%;
+    background-color: azure;
+    border: solid 5px green;
+}
+.button{
+    margin-top: 20px;
+    padding: 5px 20px 5px 20px;
+}
+.button:hover{
+    background-color: aqua;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+.a{
+    padding-right: 57%;
+}
+label{
+    font-weight: bolder;
+}

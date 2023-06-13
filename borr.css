@@ -1,0 +1,36 @@
+
+
+nav{
+    display: flex;
+}h1{
+    text-align: center;
+    font-weight: bolder;
+}
+form{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 2%;
+    background-color: rgba(255, 127, 80, 0.847);
+    border: 2px solid black;
+    padding-bottom: 5%;
+}
+input{
+    padding-right: 60%;
+    margin-right: 60%;
+}
+body{
+background-image: url("rangii.jpg");
+background-size: contain;
+}
+label{
+    font-weight: bolder;
+}
+button{
+    padding: 5px 10px 5px 10px;
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+    border-radius: 15px;
+    cursor: pointer;
+}

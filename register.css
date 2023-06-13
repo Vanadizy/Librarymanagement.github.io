@@ -1,0 +1,25 @@
+#login{
+    padding: 10px 35px 10px 35px;
+}
+#login:hover{
+    background-color: blue;
+    border-radius: 15px;
+    cursor: pointer;
+}
+#register{
+    padding: 10px 25px 10px 25px;
+}
+#register:hover{
+    background-color: blue;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.body{
+    background-image: url("background image.jpg");
+    background-size:cover;
+}
+#header{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(23, 6, 6);
+}
